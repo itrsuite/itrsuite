@@ -1,7 +1,7 @@
 {
   "name": "itrsuite",
   "version": "0.1.0",
-  "description": "",
+  "description": "IT Resources suite of public packages for Node.js",
   "private": true,
   "scripts": {
     "test": "pnpm -r --workspace-concurrency=1 test"
