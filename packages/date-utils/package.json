@@ -3,12 +3,22 @@
   "version": "0.1.1",
   "description": "",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itrsuite/itrsuite.git"
+  },
+  "author": "Luca Stasio <joshuagame@gmail.com>",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "javascript",
+    "date utils"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itrsuite/itrsuite/issues"
+  },
   "dependencies": {
     "dotenv": "^16.3.1"
   }
