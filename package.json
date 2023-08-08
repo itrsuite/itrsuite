@@ -1,6 +1,6 @@
 {
   "name": "itrsuite",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "IT Resources suite of public packages for Node.js",
   "private": true,
   "scripts": {
